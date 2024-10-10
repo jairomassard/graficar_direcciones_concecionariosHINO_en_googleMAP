@@ -1,4 +1,4 @@
-# graficar_direcciones_concecionariosHINO_en_googleMAP
+# graficar_direcciones_concecionarios_en_googleMAP
 
 Este programa tiene por objetivo hacer uso de Python para generar un codigo de programación que consulte la API de Geolocalizacion de Google Maps. El API genera una clave que necesita ser introducida al programa.
 
